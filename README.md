@@ -4,4 +4,4 @@ Students:
 
 * Tarrida Domingo, Pere
 
-* Surname_2, First_name_2
+Note: He fet el commit #4 per la tasca 3
